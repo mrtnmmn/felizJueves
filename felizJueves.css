@@ -1,0 +1,22 @@
+.bgShinji {
+    background-image: url("/resources/shiniji.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+    font-size: x-large;
+}
+
+.bgAsuka {
+    background-image: url("/resources/felizJueves.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+    font-size: xxx-large;
+}
+
+p {
+    padding: 5vh;
+}
